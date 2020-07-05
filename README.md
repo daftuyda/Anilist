@@ -1,18 +1,18 @@
 # Visualisation
 ## Original at [Anilist](https://github.com/AmIVoid/Anilist/blob/master/Anilist.md)
 
-<center>
-![ishtar gif](ishtar.gif)
+<p align="center">
+<img src="ishtar.gif>
 
-![img](https://void.idle.host/anilist/start.png)
+<img src="https://void.idle.host/anilist/start.png>
  
 <img src="https://void.idle.host/anilist/discord.png" width="240px"> <img src="https://void.idle.host/anilist/twitter.png" width="240px"> <img src="https://void.idle.host/anilist/twitch.png" width="240px"> <img src="https://void.idle.host/anilist/youtube.png" width="240px">
 
-![img](https://void.idle.host/anilist/hentai.png)
+<img src="https://void.idle.host/anilist/hentai.png>
 
-![img](https://void.idle.host/anilist/website.png)
+<img src="https://void.idle.host/anilist/website.png>
 
-![img](https://void.idle.host/anilist/Badges.png)
+<img src="https://void.idle.host/anilist/Badges.png">
 
 <details>
 
@@ -52,4 +52,4 @@ Comedy
 
 [Anime badges](https://anilist.co/forum/thread/8354) | [Genre badges](https://anilist.co/forum/thread/10220)
 </details>
-</center>
+</p>
