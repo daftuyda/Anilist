@@ -14,9 +14,9 @@
 ![img](https://void.idle.host/anilist/Badges.png)
 
 <Spoilers>
-Anime
+#### Anime
 
-![img17%](https://i.imgur.com/r5Wfqfz.png | width=17%) ![img17%](https://i.imgur.com/hnDuFI3.png | width=17%) ![img17%](https://i.imgur.com/LwrBved.png | width=17%) ![img17%](https://i.imgur.com/DTmDnek.png | width=17%) ![img17%](https://i.imgur.com/tsVfCdH.png | width=17%)
+<img src="https://i.imgur.com/r5Wfqfz.png" width="17%"> ![img17%](https://i.imgur.com/hnDuFI3.png | width=17%) ![img17%](https://i.imgur.com/LwrBved.png | width=17%) ![img17%](https://i.imgur.com/DTmDnek.png | width=17%) ![img17%](https://i.imgur.com/tsVfCdH.png | width=17%)
 
 ![img17%](https://i.imgur.com/DiJUVBE.png | width=17%) ![img17%](https://i.imgur.com/w97TxWQ.png | width=17%) ![img17%](https://i.imgur.com/E9BCrib.png | width=17%) ![img17%](https://i.imgur.com/dSLEJQM.png | width=17%) ![img17%](https://i.imgur.com/Sw92OXF.png | width=17%) 
 
