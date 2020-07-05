@@ -1,6 +1,7 @@
 # Visualisation
 ## Original at [Anilist](https://github.com/AmIVoid/Anilist/blob/master/Anilist.md)
 
+<center>
 ![ishtar gif](ishtar.gif)
 
 ![img](https://void.idle.host/anilist/start.png)
@@ -51,3 +52,4 @@ Comedy
 
 [Anime badges](https://anilist.co/forum/thread/8354) | [Genre badges](https://anilist.co/forum/thread/10220)
 </details>
+</center>
