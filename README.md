@@ -2,15 +2,15 @@
 ## Original at [Anilist](https://github.com/AmIVoid/Anilist/blob/master/Anilist.md)
 
 <p align="center">
-<img src="ishtar.gif>
+<img src="ishtar.gif">
 
-<img src="https://void.idle.host/anilist/start.png>
+<img src="https://void.idle.host/anilist/start.png">
  
 <img src="https://void.idle.host/anilist/discord.png" width="240px"> <img src="https://void.idle.host/anilist/twitter.png" width="240px"> <img src="https://void.idle.host/anilist/twitch.png" width="240px"> <img src="https://void.idle.host/anilist/youtube.png" width="240px">
 
-<img src="https://void.idle.host/anilist/hentai.png>
+<img src="https://void.idle.host/anilist/hentai.png">
 
-<img src="https://void.idle.host/anilist/website.png>
+<img src="https://void.idle.host/anilist/website.png">
 
 <img src="https://void.idle.host/anilist/Badges.png">
 
