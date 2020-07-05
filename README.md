@@ -1,42 +1,42 @@
 # Visualisation
 ## Original at [Anilist](https://github.com/AmIVoid/Anilist/blob/master/Anilist.md)
 
-![img](http://void.idle.host/anilist/ishtar2.gif)
+![ishtar gif](http://void.idle.host/anilist/ishtar2.gif)
 
 ![img](https://void.idle.host/anilist/start.png)
  
-![img240](https://void.idle.host/anilist/discord.png) ![img240(https://void.idle.host/anilist/twitter.png) ](https://twitter.com/Shift8Void) ![img240(https://void.idle.host/anilist/twitch.png) ](https://twitch.tv/Shift8Void) ![img240(https://void.idle.host/anilist/youtube.png) ](https://www.youtube.com/channel/UCYgm_nPvoJilnfKCSLIE5eA)
+![img240](https://void.idle.host/anilist/discord.png | width=240) ![img240](https://void.idle.host/anilist/twitter.png | width=240) ![img240](https://void.idle.host/anilist/twitch.png | width=240)![img240](https://void.idle.host/anilist/youtube.png | width=240)
 
 ![img](https://void.idle.host/anilist/hentai.png)
 
-![img(https://void.idle.host/anilist/website.png) ](https://void.idle.host)
+![img](https://void.idle.host/anilist/website.png)
 
-![img(https://void.idle.host/anilist/Badges.png)
+![img](https://void.idle.host/anilist/Badges.png)
 
-<details>
-__Anime__
+<Spoilers>
+Anime
 
-![img17%](https://i.imgur.com/r5Wfqfz.png) ![img17%](https://i.imgur.com/hnDuFI3.png) ![img17%](https://i.imgur.com/LwrBved.png) ![img17%](https://i.imgur.com/DTmDnek.png) ![img17%](https://i.imgur.com/tsVfCdH.png)
+![img17%](https://i.imgur.com/r5Wfqfz.png | width=17%) ![img17%](https://i.imgur.com/hnDuFI3.png | width=17%) ![img17%](https://i.imgur.com/LwrBved.png | width=17%) ![img17%](https://i.imgur.com/DTmDnek.png | width=17%) ![img17%](https://i.imgur.com/tsVfCdH.png | width=17%)
 
-![img17%](https://i.imgur.com/DiJUVBE.png) ![img17%](https://i.imgur.com/w97TxWQ.png) ![img17%](https://i.imgur.com/E9BCrib.png) ![img17%](https://i.imgur.com/dSLEJQM.png) ![img17%](https://i.imgur.com/Sw92OXF.png) 
+![img17%](https://i.imgur.com/DiJUVBE.png | width=17%) ![img17%](https://i.imgur.com/w97TxWQ.png | width=17%) ![img17%](https://i.imgur.com/E9BCrib.png | width=17%) ![img17%](https://i.imgur.com/dSLEJQM.png | width=17%) ![img17%](https://i.imgur.com/Sw92OXF.png | width=17%) 
 
-__Genres
-﹋﹋﹋﹋__
+Genres
+﹋﹋﹋﹋
 Hentai
 ﹋﹋﹋
-![img22%](https://i.postimg.cc/wvSzSmJ0/Hentai-Mastery-Tier-1.png) ![img22%](https://i.postimg.cc/PfwT1Ssc/Hentai-Mastery-Tier-2.png) ![img22%](https://i.postimg.cc/90Z2VQYV/Hentai-Mastery-Tier-3.png)
+![img22%](https://i.postimg.cc/wvSzSmJ0/Hentai-Mastery-Tier-1.png | width=22%) ![img22%](https://i.postimg.cc/PfwT1Ssc/Hentai-Mastery-Tier-2.png | width=22%) ![img22%](https://i.postimg.cc/90Z2VQYV/Hentai-Mastery-Tier-3.png | width=22%)
 
 Ecchi
 ﹋﹋﹋
-![img22%](https://i.imgur.com/oEeyJdo.png) ![img22%](https://i.imgur.com/d5JDyvK.png) ![img22%](https://i.imgur.com/JmjGeO2.png) 
+![img22%](https://i.imgur.com/oEeyJdo.png | width=22%) ![img22%](https://i.imgur.com/d5JDyvK.png | width=22%) ![img22%](https://i.imgur.com/JmjGeO2.png | width=22%) 
 
 Romance
 ﹋﹋﹋﹋﹋
-![img22%](https://i.imgur.com/1ilOKl6.png) ![img22%](https://i.imgur.com/vg2iwYb.png) ![img22%](https://i.imgur.com/UOEvgm3.png) 
+![img22%](https://i.imgur.com/1ilOKl6.png | width=22%) ![img22%](https://i.imgur.com/vg2iwYb.png | width=22%) ![img22%](https://i.imgur.com/UOEvgm3.png | width=22%) 
 
 Comedy
 ﹋﹋﹋﹋
-![img22%](https://i.imgur.com/53OjjjU.png) ![img22%](https://i.imgur.com/a2cm6x3.png) ![img22%](https://i.imgur.com/gbCmshM.png) 
+![img22%](https://i.imgur.com/53OjjjU.png | width=22%) ![img22%](https://i.imgur.com/a2cm6x3.png | width=22%) ![img22%](https://i.imgur.com/gbCmshM.png | width=22%) 
 
 [Anime badges](https://anilist.co/forum/thread/8354) | [Genre badges](https://anilist.co/forum/thread/10220)
 </details>
