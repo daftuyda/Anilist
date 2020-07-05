@@ -1,7 +1,7 @@
 # Visualisation
 ## Original at [Anilist](https://github.com/AmIVoid/Anilist/blob/master/Anilist.md)
 
-![ishtar gif](ishtar2.gif)
+![ishtar gif](ishtar.gif)
 
 ![img](https://void.idle.host/anilist/start.png)
  
