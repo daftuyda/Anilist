@@ -13,30 +13,30 @@
 
 ![img](https://void.idle.host/anilist/Badges.png)
 
-<Spoilers>
-#### Anime
+<details>
+Anime
 
-<img src="https://i.imgur.com/r5Wfqfz.png" width="17%"> ![img17%](https://i.imgur.com/hnDuFI3.png | width=17%) ![img17%](https://i.imgur.com/LwrBved.png | width=17%) ![img17%](https://i.imgur.com/DTmDnek.png | width=17%) ![img17%](https://i.imgur.com/tsVfCdH.png | width=17%)
+<img src="https://i.imgur.com/r5Wfqfz.png" width="17%"> <img src="https://i.imgur.com/hnDuFI3.png" width="17%"> <img src="https://i.imgur.com/LwrBved.png" width="17%"> <img src="https://i.imgur.com/DTmDnek.png" width="17%"> <img src="https://i.imgur.com/tsVfCdH.png" width="17%">
 
-![img17%](https://i.imgur.com/DiJUVBE.png | width=17%) ![img17%](https://i.imgur.com/w97TxWQ.png | width=17%) ![img17%](https://i.imgur.com/E9BCrib.png | width=17%) ![img17%](https://i.imgur.com/dSLEJQM.png | width=17%) ![img17%](https://i.imgur.com/Sw92OXF.png | width=17%) 
+<img src="https://i.imgur.com/DiJUVBE.png" width="17%"> <img src="https://i.imgur.com/w97TxWQ.png" width="17%"> <img src="https://i.imgur.com/E9BCrib.png" width="17%"> <img src="https://i.imgur.com/dSLEJQM.png" width="17%"> <img src="https://i.imgur.com/Sw92OXF.png" width="17%">
 
 Genres
 ﹋﹋﹋﹋
 Hentai
 ﹋﹋﹋
-![img22%](https://i.postimg.cc/wvSzSmJ0/Hentai-Mastery-Tier-1.png | width=22%) ![img22%](https://i.postimg.cc/PfwT1Ssc/Hentai-Mastery-Tier-2.png | width=22%) ![img22%](https://i.postimg.cc/90Z2VQYV/Hentai-Mastery-Tier-3.png | width=22%)
+<img src="https://i.postimg.cc/wvSzSmJ0/Hentai-Mastery-Tier-1.png" width="22%"> <img src="https://i.postimg.cc/PfwT1Ssc/Hentai-Mastery-Tier-2.png" width="22%"> <img src="https://i.postimg.cc/90Z2VQYV/Hentai-Mastery-Tier-3.png" width="22%">
 
 Ecchi
 ﹋﹋﹋
-![img22%](https://i.imgur.com/oEeyJdo.png | width=22%) ![img22%](https://i.imgur.com/d5JDyvK.png | width=22%) ![img22%](https://i.imgur.com/JmjGeO2.png | width=22%) 
+<img src="https://i.imgur.com/oEeyJdo.png" width="22%"> <img src="https://i.imgur.com/d5JDyvK.png" width="22%"> <img src="https://i.imgur.com/JmjGeO2.png" width="22%">
 
 Romance
 ﹋﹋﹋﹋﹋
-![img22%](https://i.imgur.com/1ilOKl6.png | width=22%) ![img22%](https://i.imgur.com/vg2iwYb.png | width=22%) ![img22%](https://i.imgur.com/UOEvgm3.png | width=22%) 
+<img src="https://i.imgur.com/1ilOKl6.png" width="22%"> <img src="https://i.imgur.com/vg2iwYb.png" width="22%"> <img src="https://i.imgur.com/UOEvgm3.png" width="22%">
 
 Comedy
 ﹋﹋﹋﹋
-![img22%](https://i.imgur.com/53OjjjU.png | width=22%) ![img22%](https://i.imgur.com/a2cm6x3.png | width=22%) ![img22%](https://i.imgur.com/gbCmshM.png | width=22%) 
+<img src="https://i.imgur.com/53OjjjU.png" width="22%"> <img src="https://i.imgur.com/a2cm6x3.png" width="22%"> <img src="https://i.imgur.com/gbCmshM.png" width="22%">
 
 [Anime badges](https://anilist.co/forum/thread/8354) | [Genre badges](https://anilist.co/forum/thread/10220)
 </details>

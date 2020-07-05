@@ -1,4 +1,4 @@
-~~~img(http://void.idle.host/anilist/ishtar2.gif)~~~
+```~~~img(http://void.idle.host/anilist/ishtar2.gif)~~~
 
 ~~~img(https://void.idle.host/anilist/start.png)~~~
  
@@ -38,4 +38,4 @@ img22%(https://i.imgur.com/53OjjjU.png) img22%(https://i.imgur.com/a2cm6x3.png) 
 [Anime badges](https://anilist.co/forum/thread/8354) | [Genre badges](https://anilist.co/forum/thread/10220)
 !~
 
-~~~
+~~~```
